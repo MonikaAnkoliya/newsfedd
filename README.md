@@ -19,8 +19,3 @@ To run in ios use:- `react-native run-ios` and android use `react-native run-and
 ### Android APK (Note: expire after 17 November, 2020)
 https://we.tl/t-079MYuIxu1
 
-### Design:
-
-![Image description](Feeds.jpeg)
-
-![Image description](News.jpeg)
