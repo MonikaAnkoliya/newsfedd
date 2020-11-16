@@ -6018,7 +6018,7 @@
   "resolved" "https://registry.yarnpkg.com/react-native-screens/-/react-native-screens-2.14.0.tgz"
   "version" "2.14.0"
 
-"react-native-webview@*":
+"react-native-webview@*", "react-native-webview@^10.10.2":
   "integrity" "sha512-98Dh7q1gEflicFZ8KNL3nK5XRjx50OZXqw87jHofVjKfjbK0LKmvI5X8ymgUMGg61JVgI3AF+g8qpDvqjgQsfg=="
   "resolved" "https://registry.npmjs.org/react-native-webview/-/react-native-webview-10.10.2.tgz"
   "version" "10.10.2"
