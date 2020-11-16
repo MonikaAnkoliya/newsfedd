@@ -11,6 +11,8 @@ Tools needed to run this app: `node` and `npm`
 
 ### Installing:
 * `npm install` to install dependencies
+* `react-native link` to install dependencies
+* `cd ios && pod install` to install dependencies
 
 ### Running the App:
 After you have installed all dependencies, you may run the app.
